@@ -11,11 +11,11 @@ A través de esta plantilla, podrás resaltar y obtener mejores resultados a la 
 
 Aquí tienes el enlace donde puedes explorar los diveros links por ti mismo y ver cómo cualquier persona puede acceder a él de forma rápida y sencilla. Solo haz clic en [Links page]().
 
-# 🌟Demostración de la Link Page
+# 🌟Demostración de Links Page
 
 A continuación, comparto mi pages links a modo de imagen para que puedas observar el resultado.
 
-[![Pages Links](/assets/page_links.png)
+![Pages Links](/assets/page_links.png)
 
 
 ## ⚙️ Requisitos
@@ -54,4 +54,4 @@ Puedes acceder a mis [page links]() para contactarme de manera rápida y sencill
 
 Quisiera expresar mi agradecimiento a [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q) que a través de la página oficial de [Youtube Streamlit](https://www.youtube.com/@streamlitofficial) ha logrado expresar correctamente con explicaciones claras y concisas el procedimiento. Les animo a explorar su contenido y aplicarlo en sus propios proyectos.
 
-Espero que esta herramienta os resulte beneficiosa para alcanzar vuestros objetivos. Recuerden, con creatividad y dedicación, ¡los resultados llegarán! Si encuentran algún error o tienen sugerencias para mejorar, estoy completamente abierto a recibir sus comentarios a través de [correo electrónico](alexmarzadatascience@gmail.com). Espero que esta herramienta les sea de gran utilidad.
+Espero que esta herramienta os resulte beneficiosa para alcanzar vuestros objetivos. Recuerden, con creatividad y dedicación, ¡los resultados llegarán! Si encuentran algún error o tienen sugerencias para mejorar, estoy completamente abierto a recibir sus comentarios a través del correo electrónico alexmarzadatascience@gmail.com. Espero que esta herramienta les sea de gran utilidad.

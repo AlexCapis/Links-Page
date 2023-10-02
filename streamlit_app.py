@@ -8,6 +8,11 @@ current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
 css_file = current_dir / "styles" / "styles.css"
 
+PAGE_TITLE= "Alex Links Page"
+PAGE_ICON= "📌"
+
+st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
+
 load_css()
 st.write("[![Star](https://img.shields.io/github/stars/dataprofessor/links.svg?logo=github&style=social)]()")
 
