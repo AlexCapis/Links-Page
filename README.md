@@ -9,7 +9,7 @@ A través de esta plantilla, podrás resaltar y obtener mejores resultados a la 
 
 # 👀 Visualización
 
-Aquí tienes el enlace donde puedes explorar los diveros links por ti mismo y ver cómo cualquier persona puede acceder a él de forma rápida y sencilla. Solo haz clic en [Links page]().
+Aquí tienes el enlace donde puedes explorar los diveros links por ti mismo y ver cómo cualquier persona puede acceder a él de forma rápida y sencilla. Solo haz clic en [Links page](https://alex-links-page.streamlit.app/).
 
 # 🌟Demostración de Links Page
 
@@ -47,7 +47,7 @@ Si todo va correctamente te aparecerá una URL de local host y pinchando sobre e
 
 ## 🤝 Descubre más sobre mí y Conéctate!
 
-Puedes acceder a mis [page links]() para contactarme de manera rápida y sencilla. Además si quieres saber como he hecho mi CV Digital pincha [aquí](https://github.com/AlexCapis/Digital-CV-streamlit) y haz tu propio CV.
+Puedes acceder a mis [page links](https://alex-links-page.streamlit.app/) para contactarme de manera rápida y sencilla. Además si quieres saber como he hecho mi CV Digital pincha [aquí](https://github.com/AlexCapis/Digital-CV-streamlit) y haz tu propio CV.
 
 ## 🙏 Agradecimientos
 
