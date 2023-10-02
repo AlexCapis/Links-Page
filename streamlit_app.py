@@ -14,7 +14,6 @@ PAGE_ICON= "📌"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
 load_css()
-st.write("[![Star](https://img.shields.io/github/stars/dataprofessor/links.svg?logo=github&style=social)]()")
 
 col1, col2, col3 = st.columns(3)
 
