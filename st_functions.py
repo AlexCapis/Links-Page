@@ -10,7 +10,7 @@ def st_button(icon, url, label, iconsize):
     if icon == 'github':
         button_code = f'''
         <p>
-            <a href="{url}" class="btn btn-outline-primary btn-lg btn-block" type="button" aria-pressed="true">
+            <a href="{url}" class="btn btn-outline-primary btn-lg btn-block" type="button" aria-pressed="true ">
                 <svg xmlns="http://www.w3.org/2000/svg" width="{iconsize}" height="{iconsize}" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
                     <path d="M0 8.146c0 3.823 2.491 7.066 5.946 8.195.436.082.598-.19.598-.425 0-.209-.008-.76-.012-1.492-2.42.443-2.93-1.17-2.93-1.17-.396-1.002-.966-1.267-.966-1.267-.787-.536-.015-.527.015-.527.871.062 1.33.895 1.33.895.773 1.32 2.026.94 2.52.715.077-.56.3-.938.545-1.155-1.905-.215-3.897-.952-3.897-4.244 0-.94.336-1.71.888-2.31-.09-.215-.384-1.09.083-2.275 0 0 .723-.23 2.367.882.686-.188 1.422-.28 2.154-.283.73.002 1.467.095 2.154.283 1.645-1.113 2.367-.883 2.367-.883.468 1.185.173 2.06.085 2.275.552.6.886 1.37.886 2.31 0 3.302-1.997 4.028-3.91 4.237.307.265.582.791.582 1.587 0 1.147-.01 2.07-.01 2.346 0 .236.16.513.606.425C13.51 15.21 16 11.97 16 8.145 16 3.663 12.418 0 8 0S0 3.663 0 8.146z"/>
                 </svg>  
@@ -39,5 +39,18 @@ def st_button(icon, url, label, iconsize):
             </a>
         </p>
         '''
+    elif icon == 'cv':
+        button_code = f'''
+        <p>
+            <a href="{url}" class="btn btn-outline-primary btn-lg btn-block" type="button" aria-pressed="true">
+                <svg xmlns="http://www.w3.org/2000/svg" width="{iconsize}" height="{iconsize}" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M2 0A2 2 0 0 0 0 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm1 1h10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1z"/>
+                </svg>
+                {label}
+            </a>
+        </p>
+    '''
+
+
     return st.markdown(button_code, unsafe_allow_html=True)
 
