@@ -9,8 +9,7 @@ css_file = current_dir / "styles" / "main.css"
 css_file = current_dir / "styles" / "styles.css"
 
 load_css()
-st.markdown("CAMBIAR")
-st.write("[![Star](https://img.shields.io/github/stars/dataprofessor/links.svg?logo=github&style=social)](https://gitHub.com/dataprofessor/links)")
+st.write("[![Star](https://img.shields.io/github/stars/dataprofessor/links.svg?logo=github&style=social)]()")
 
 col1, col2, col3 = st.columns(3)
 
