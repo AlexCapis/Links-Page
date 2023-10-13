@@ -37,7 +37,7 @@ icon_size = 20
 github_url = "https://github.com/AlexCapis"
 linkedin_url = "https://www.linkedin.com/in/alex-marza-data-science/"
 whatsapp_url = "http://wa.me/34695802887?text=%C2%A1Hola!%20He%20revisado%20su%20perfil%20y%20parece%20encajar%20con%20lo%20que%20estamos%20buscando.%20Por%20ello,%20desde%20nuestro%20departamento%20de%20RRHH%20nos%20gustar%C3%ADa%20concertar%20una%20entrevista%20con%20usted%20para%20profundizar%20en%20el%20puesto%20laboral%20y%20conocernos%20mejor.%20%C2%A1Espero%20su%20respuesta!"
-cv_url = " https://cv-alex-marza.streamlit.app/"
+cv_url = "https://cv-digital-alex.streamlit.app/~/+/"
 
 
 
